@@ -1,0 +1,4 @@
+setuptools<=57.5.0
+numba
+numpy
+git+https://github.com/danoneata/chalk@srush-patch-1
